@@ -10,3 +10,7 @@ A simple feedback system, where the user can do registration and log in. User fi
 App includes a web-based maintenance user interface protected with a username and password, with which the administrator can view the results by topic. All the results can be combined to excel file. System allows the administrator to add new topics where to give feedback. This way the system could be used to give feedback on different courses.
 
 Here is a short video about the app!
+
+[Watch the video](https://raw.githubusercontent.com/pinjama/Feedback-System_Django/main/assets/Demo-video1.mp4)
+
+
