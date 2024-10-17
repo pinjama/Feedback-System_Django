@@ -11,6 +11,6 @@ App includes a web-based maintenance user interface protected with a username an
 
 Here is a short video about the app!
 
-[Watch the video](https://raw.githubusercontent.com/pinjama/Feedback-System_Django/main/assets/Demo-video1.mp4)
+[Watch the video](https://raw.githubusercontent.com/pinjama/Feedback-System_Django/main/Demo-video1.mp4)
 
 
